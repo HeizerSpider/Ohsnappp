@@ -5,7 +5,7 @@
 <br> <b>Main Idea:</b> Establish an automated camera system that will be able to capture vital lesson contents. Students can send instruction to take pictures through a Telegram bot whilst teachers and admins can use the kivy app to adjust camera position. The Kivy app has a log in interface to prevent misuse by students.
 
 Work Progress Test: Device mounted on ceiling and image captured using telegram chatbot
-![Work Progress](/workprogress.jpg)
+<img src="/workprogress.jpg" width="500">
 
 Project Components:
 - <b>Telegram Chatbot</b>: Coded with python
