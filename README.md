@@ -1,21 +1,19 @@
 # Ohsnappp
 
-<H1>Description </H1>
+# Project Description
 <br> <b>Problem Statement:</b> Improving cohort based learning through a fully integrated photo application to capture vital information on the whiteboard or screen. 
 <br> <b>Main Idea:</b> Establish an automated camera system that will be able to capture vital lesson contents. Students can send instruction to take pictures through a Telegram bot whilst teachers and admins can use the kivy app to adjust camera position. The Kivy app has a log in interface to prevent misuse by students.
 
-<H1>Project Poster</H1>
+Work Progress Test: Device mounted on ceiling and image captured using telegram chatbot
+![Work Progress](/workprogress.jpg)
 
-![Ohsnappp Poster](https://user-images.githubusercontent.com/55970776/67543061-27314580-f722-11e9-9716-d0698a966cdf.PNG)
+Project Components:
+- <b>Telegram Chatbot</b>: Coded with python
+- <b>RPi</b>: To act as server for chatbot as well as hardware control
+- <b>PiCam</b>: Image capture
+- <b>Servo motor</b>: Camera angle adjustment
+- <b>Kivy</b>: For admin user control of camera angle
 
-<H1>Learning Points </H1>
-<ul>
-  <li>Raspberry Pi</li>
-  <li>Python</li>
-  <li>Kivy </li>
-  <li>Telegram Bot </li>
-  <li>Integration of hardware and software </li>
+# Project Poster
 
-  
-
-</ul>
+![Ohsnappp Poster](https://raw.githubusercontent.com/HeizerSpider/Ohsnappp/master/Ohsnappp%20Poster.PNG)
